@@ -165,27 +165,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 ### GitHub Contributions Summary
 
 <div align="center">
-  <table width="100%" style="background-color: #0d1117; border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 10px; max-width: 750px;">
-    <tr>
-      <td width="33%" align="center" style="padding: 22px 14px; border-right: 1px solid #21262d;">
-        <div style="font-size: 30px; font-weight: 800; color: #ffffff;">2,187+</div>
-        <div style="font-size: 13px; font-weight: 600; color: #e6edf3; margin-top: 4px;">Total Commits</div>
-        <div style="font-size: 11px; color: #8b949e; margin-top: 6px;">Oct 2024 &ndash; Present</div>
-      </td>
-      <td width="34%" align="center" style="padding: 22px 14px; border-right: 1px solid #21262d;">
-        <div style="display: inline-block; width: 56px; height: 56px; border: 3px solid #ff4365; border-radius: 50%; line-height: 50px; text-align: center; color: #ffffff; font-size: 18px; font-weight: 800;">
-          181
-        </div>
-        <div style="font-size: 13px; font-weight: 600; color: #ff4365; margin-top: 6px;">2026 Production Sync</div>
-        <div style="font-size: 11px; color: #8b949e; margin-top: 4px;">Active Deployments</div>
-      </td>
-      <td width="33%" align="center" style="padding: 22px 14px;">
-        <div style="font-size: 30px; font-weight: 800; color: #ffffff;">1,617</div>
-        <div style="font-size: 13px; font-weight: 600; color: #e6edf3; margin-top: 4px;">Peak Annual Volume</div>
-        <div style="font-size: 11px; color: #8b949e; margin-top: 6px;">2025 Full-Year Matrix</div>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/contributions_card.svg" alt="GitHub Contributions Summary" width="750" />
 </div>
 
 ### Year-Wise Contribution Breakdown
