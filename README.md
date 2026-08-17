@@ -162,20 +162,13 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### GitHub Contributions Summary
+### GitHub contributions summary
 
 <div align="center">
-  <img src="assets/contributions_card.svg" alt="GitHub Contributions Summary" width="750" />
+  <a href="https://github.com/tarun1790">
+    <img src="https://streak-stats.demolab.com?user=tarun1790&theme=dark&hide_border=true" alt="GitHub contributions summary" />
+  </a>
 </div>
-
-### Year-Wise Contribution Breakdown
-
-| Year | Development Period | Active Focus & Repositories | Verified Commits |
-| :--- | :--- | :--- | :---: |
-| **2024** | October &ndash; December | Predictive Maintenance, AI Procurement, LeetCode Dashboard | **389** |
-| **2025** | Full Year (Jan &ndash; Dec) | Full-Year Multi-Repository Matrix across 5 Core Systems | **1,617** |
-| **2026** | June &ndash; August (Current) | Production Sync, RAG Streaming, Telemetry Dashboards | **181** |
-| **Total** | **Continuous Engineering** | **5 Core Active Production Repositories** | **2,187+** |
 
 ---
 
