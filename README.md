@@ -201,12 +201,20 @@ graph LR
 ### Activity & Contribution Telemetry
 
 <p align="center">
-  <img src="https://github.com/tarun1790/tarun1790/releases/download/v1.0.0/github_streak_summary.png" alt="GitHub contributions summary" width="100%" />
+  <img src="https://github.com/tarun1790/tarun1790/releases/download/v1.0.0/github_streak_summary.png" alt="GitHub Contributions Summary" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8" alt="GitHub Contribution Graph" width="100%" />
 </p>
+
+| Telemetry Dimension | Active Status | Measured Volume / Rate | Target Architecture |
+| :--- | :---: | :---: | :--- |
+| **Total Contributions** | `ACTIVE` | **2,187+ Verified Commits** | Core Engineering Systems |
+| **Current Continuous Streak** | `ACTIVE` | **181 Days Active Sync** | Daily Development Cadence |
+| **Longest Matrix Span** | `ACHIEVED` | **1,617 Commits Matrix** | Full-Year 2025 Architecture |
+| **Daily Commit Velocity** | `STEADY` | **~8.4 Commits / Day** | Continuous Integration CI/CD |
+| **Ecosystem Repositories** | `DEPLOYED` | **16 Active Codebases** | AI / Digital Twins / Web / Tools |
 
 ---
 
