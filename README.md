@@ -162,9 +162,11 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-<p align="center">
-  <img src="https://github.com/tarun1790/tarun1790/raw/main/assets/github_contributions_summary.png" alt="GitHub contributions summary" width="800" />
-</p>
+<div align="center">
+
+![GitHub contributions summary](./github_contributions_summary.png)
+
+</div>
 
 ---
 
