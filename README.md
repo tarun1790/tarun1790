@@ -156,11 +156,13 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-<div align="center">
-  <a href="https://github.com/tarun1790">
-    <img src="https://streak-stats.demolab.com?user=tarun1790&theme=dark&hide_border=true" alt="GitHub contributions summary" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github.com/tarun1790/tarun1790/releases/download/v1.0.0/github_contributions_summary.png" alt="GitHub Contributions Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8" alt="GitHub Contribution Graph" width="100%" />
+</p>
 
 ---
 

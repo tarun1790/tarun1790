@@ -1,0 +1,38 @@
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow requests
+
+      - name: Update Metrics
+        run: |
+          python update_metrics.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "tarun1790"
+          git config user.email "tarun.jampani45@gmail.com"
+          git add github_contributions_summary.png README.md || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(telemetry): auto-update repository metrics [skip ci]" && git push)
