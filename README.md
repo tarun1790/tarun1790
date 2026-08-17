@@ -162,12 +162,8 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### GitHub contributions summary
-
 <div align="center">
-  <a href="https://github.com/tarun1790">
-    <img src="https://streak-stats.demolab.com?user=tarun1790&theme=dark&hide_border=true" alt="GitHub contributions summary" />
-  </a>
+  <img src="https://raw.githubusercontent.com/tarun1790/tarun1790/main/assets/github_contributions_summary.svg" alt="GitHub contributions summary" width="800" />
 </div>
 
 ---

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" fill="none">
+  <style>
+    .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #ffffff; }
+    .stat-number { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 800; fill: #ffffff; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 600; fill: #ffffff; }
+    .stat-subtext { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11.5px; font-weight: 400; fill: #8b949e; }
+    .streak-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; fill: #ff4365; }
+  </style>
+
+  <!-- Outer Card Background -->
+  <rect x="1" y="1" width="798" height="208" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Top Title Header -->
+  <text x="24" y="34" class="header">GitHub contributions summary</text>
+
+  <!-- Vertical Divider Lines -->
+  <line x1="266" y1="52" x2="266" y2="185" stroke="#30363d" stroke-width="1"/>
+  <line x1="534" y1="52" x2="534" y2="185" stroke="#30363d" stroke-width="1"/>
+
+  <!-- LEFT PANEL: Total Contributions -->
+  <g transform="translate(133, 110)" text-anchor="middle">
+    <text y="0" class="stat-number">2,187+</text>
+    <text y="28" class="stat-label">Total Contributions</text>
+    <text y="50" class="stat-subtext">Oct 1, 2024 - Present</text>
+  </g>
+
+  <!-- CENTER PANEL: Flame Icon + Circular Progress Ring -->
+  <g transform="translate(400, 102)">
+    <!-- Circular Ring -->
+    <circle cx="0" cy="0" r="32" stroke="#ff4365" stroke-width="3.5" fill="none"/>
+    
+    <!-- Flame Icon -->
+    <g transform="translate(0, -32)">
+      <path d="M-6 -6 C-6 -12 0 -16 0 -18 C0 -16 6 -12 6 -6 C7 -2 4 2 0 2 C-4 2 -7 -2 -6 -6 Z" fill="#ff4365"/>
+      <path d="M-3 -4 C-3 -8 0 -11 0 -12 C0 -11 3 -8 3 -4 C3.5 -2 2 0 0 0 C-2 0 -3.5 -2 -3 -4 Z" fill="#f59e0b"/>
+    </g>
+
+    <!-- Center Streak Number -->
+    <text x="0" y="8" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">181</text>
+  </g>
+
+  <g transform="translate(400, 110)" text-anchor="middle">
+    <text y="48" class="streak-label">Current Streak</text>
+    <text y="68" class="stat-subtext">Active Engineering Sync</text>
+  </g>
+
+  <!-- RIGHT PANEL: Longest Streak / Peak Matrix -->
+  <g transform="translate(667, 110)" text-anchor="middle">
+    <text y="0" class="stat-number">1,617</text>
+    <text y="28" class="stat-label">Longest Streak</text>
+    <text y="50" class="stat-subtext">2025 Full-Year Matrix</text>
+  </g>
+</svg>
