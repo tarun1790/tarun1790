@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Banner -->
   <a href="https://github.com/tarun1790">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there%2C+I'm+Tarun+Jampani+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%9A%80;Building+Intelligent+Systems+%26+Full+Stack+Apps+%E2%9A%A1;Passionate+about+IoT%2C+Predictive+AI+%26+MLOps+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there%2C+I'm+Tarun+Jampani;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+%26+Full+Stack+Apps;Passionate+about+IoT%2C+Predictive+AI+%26+MLOps" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 **About Me**
+### About Me
 
 ```yaml
 name: Tarun Jampani
@@ -35,7 +35,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### 🏆 **GitHub Achievements & Trophies**
+### GitHub Achievements & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tarun1790&theme=onedark&no-frame=true&no-bg=true&margin_w=4&margin_h=4" alt="GitHub Trophies" />
@@ -43,12 +43,12 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### 🌟 **Featured Repositories & Projects**
+### Featured Repositories & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏭 <a href="https://github.com/tarun1790/industry-equipment-predictive-maintenance">Predictive Maintenance & Digital Twin</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/industry-equipment-predictive-maintenance">Predictive Maintenance & Digital Twin</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -57,7 +57,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
       <p>End-to-end industrial IoT telemetry engine with Remaining Useful Life (RUL) regression, Variational Autoencoder (VAE) vibration anomaly scoring, and FFT frequency-domain feature extraction.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/tarun1790/chatbot">Enterprise RAG AI Chatbot</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/chatbot">Enterprise RAG AI Chatbot</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/SSE_Streaming-10B981?style=flat-square" />
@@ -68,7 +68,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📦 <a href="https://github.com/tarun1790/industrial-product-intelligence">Industrial Product Intelligence</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/industrial-product-intelligence">Industrial Product Intelligence</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OCR_Vision-FF6F00?style=flat-square" />
@@ -77,7 +77,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
       <p>Autonomous B2B procurement engine with multi-part document OCR invoice parsing, supplier pricing comparison matrix, and real-time webhook dispatchers.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 <a href="https://github.com/tarun1790/AgriNexus">AgriNexus Geospatial Platform</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/AgriNexus">AgriNexus Geospatial Platform</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
         <img src="https://img.shields.io/badge/NDVI_Satellite-4CAF50?style=flat-square" />
@@ -88,7 +88,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/tarun1790/leetcode-tracker-dashboard">LeetCode Telemetry Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/leetcode-tracker-dashboard">LeetCode Telemetry Dashboard</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -97,7 +97,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
       <p>Command center for algorithmic problem solving featuring daily streak heatmaps, GraphQL submission queries, local caching, and category filter analytics.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/tarun1790/my-website">Modern Portfolio & Web Architecture</a></h3>
+      <h3 align="center"><a href="https://github.com/tarun1790/my-website">Modern Portfolio & Web Architecture</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Vanilla_CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -110,11 +110,11 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### 🛠️ **Tech Stack & Tooling Ecosystem**
+### Tech Stack & Tooling Ecosystem
 
 <div align="center">
 
-#### **Languages & Core**
+#### Languages & Core
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -125,7 +125,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### **AI, Machine Learning & Data Science**
+#### AI, Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -137,7 +137,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-#### **Web Frameworks, Backend & Cloud**
+#### Web Frameworks, Backend & Cloud
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -148,11 +148,10 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-#### **DevOps, Databases & Tooling**
+#### DevOps, Databases & Tooling
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -163,17 +162,9 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### 📈 **GitHub Activity & Contributions Summary**
+### GitHub Statistics
 
 <div align="center">
-
-  <!-- Main GitHub Streak Stats Card (Exact Flame Progress Ring) -->
-  <a href="https://github.com/tarun1790">
-    <img src="https://streak-stats.demolab.com/?user=tarun1790&theme=dark&hide_border=true&border_radius=8&fire=FF4365&ring=FF4365&currStreakLabel=FF4365" alt="GitHub Contributions & Streak Summary" width="600" />
-  </a>
-
-  <br/><br/>
-
   <table border="0">
     <tr>
       <td>
@@ -188,20 +179,13 @@ status: Open for collaboration on impactful AI & Software Engineering projects
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <a href="https://github.com/tarun1790">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FF4365" alt="Activity Graph" width="700" />
-  </a>
-
 </div>
 
 ---
 
 <div align="center">
 
-  ### 💬 **Let's Connect & Collaborate!**
+  ### Connect & Collaborate
 
   <p>
     <a href="https://tarun1790.github.io/my-website/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
@@ -209,6 +193,6 @@ status: Open for collaboration on impactful AI & Software Engineering projects
     <a href="https://github.com/tarun1790"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <sub>Crafted with engineering precision • Tarun Jampani</sub>
+  <sub>Tarun Jampani</sub>
 
 </div>
