@@ -162,24 +162,40 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### GitHub Statistics
+### GitHub Contributions Summary
 
 <div align="center">
-  <table border="0">
+  <table width="100%" style="background-color: #0d1117; border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 10px; max-width: 750px;">
     <tr>
-      <td>
-        <a href="https://github.com/tarun1790">
-          <img src="https://github-readme-stats.vercel.app/api?username=tarun1790&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0D1117" alt="GitHub Stats" />
-        </a>
+      <td width="33%" align="center" style="padding: 22px 14px; border-right: 1px solid #21262d;">
+        <div style="font-size: 30px; font-weight: 800; color: #ffffff;">2,187+</div>
+        <div style="font-size: 13px; font-weight: 600; color: #e6edf3; margin-top: 4px;">Total Commits</div>
+        <div style="font-size: 11px; color: #8b949e; margin-top: 6px;">Oct 2024 &ndash; Present</div>
       </td>
-      <td>
-        <a href="https://github.com/tarun1790">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1790&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0D1117" alt="Top Languages" />
-        </a>
+      <td width="34%" align="center" style="padding: 22px 14px; border-right: 1px solid #21262d;">
+        <div style="display: inline-block; width: 56px; height: 56px; border: 3px solid #ff4365; border-radius: 50%; line-height: 50px; text-align: center; color: #ffffff; font-size: 18px; font-weight: 800;">
+          181
+        </div>
+        <div style="font-size: 13px; font-weight: 600; color: #ff4365; margin-top: 6px;">2026 Production Sync</div>
+        <div style="font-size: 11px; color: #8b949e; margin-top: 4px;">Active Deployments</div>
+      </td>
+      <td width="33%" align="center" style="padding: 22px 14px;">
+        <div style="font-size: 30px; font-weight: 800; color: #ffffff;">1,617</div>
+        <div style="font-size: 13px; font-weight: 600; color: #e6edf3; margin-top: 4px;">Peak Annual Volume</div>
+        <div style="font-size: 11px; color: #8b949e; margin-top: 6px;">2025 Full-Year Matrix</div>
       </td>
     </tr>
   </table>
 </div>
+
+### Year-Wise Contribution Breakdown
+
+| Year | Development Period | Active Focus & Repositories | Verified Commits |
+| :--- | :--- | :--- | :---: |
+| **2024** | October &ndash; December | Predictive Maintenance, AI Procurement, LeetCode Dashboard | **389** |
+| **2025** | Full Year (Jan &ndash; Dec) | Full-Year Multi-Repository Matrix across 5 Core Systems | **1,617** |
+| **2026** | June &ndash; August (Current) | Production Sync, RAG Streaming, Telemetry Dashboards | **181** |
+| **Total** | **Continuous Engineering** | **5 Core Active Production Repositories** | **2,187+** |
 
 ---
 
