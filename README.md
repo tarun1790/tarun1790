@@ -163,25 +163,38 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### 📈 **GitHub Activity & Telemetry**
+### 📈 **GitHub Activity & Contributions Summary**
 
 <div align="center">
+
+  <!-- Main GitHub Streak Stats Card (Exact Flame Progress Ring) -->
+  <a href="https://github.com/tarun1790">
+    <img src="https://streak-stats.demolab.com/?user=tarun1790&theme=dark&hide_border=true&border_radius=8&fire=FF4365&ring=FF4365&currStreakLabel=FF4365" alt="GitHub Contributions & Streak Summary" width="600" />
+  </a>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tarun1790&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
+        <a href="https://github.com/tarun1790">
+          <img src="https://github-readme-stats.vercel.app/api?username=tarun1790&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0D1117" alt="GitHub Stats" />
+        </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1790&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+        <a href="https://github.com/tarun1790">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1790&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0D1117" alt="Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
 
-  <img src="https://streak-stats.demolab.com/?user=tarun1790&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak Stats" />
+  <br/>
 
-  <br/><br/>
+  <a href="https://github.com/tarun1790">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FF4365" alt="Activity Graph" width="700" />
+  </a>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f43f5e" alt="Activity Graph" />
 </div>
 
 ---
