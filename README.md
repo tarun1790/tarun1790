@@ -35,13 +35,7 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### GitHub Achievements & Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun1790&theme=onedark&no-frame=true&no-bg=true&margin_w=4&margin_h=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ### Featured Repositories & Projects
 
@@ -162,11 +156,9 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-<div align="center">
-
-![GitHub contributions summary](./github_contributions_summary.png)
-
-</div>
+<p align="center">
+  <img src="https://github.com/tarun1790/tarun1790/releases/download/v1.0.0/github_contributions_summary.png" alt="GitHub contributions summary" width="100%" />
+</p>
 
 ---
 
