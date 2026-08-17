@@ -12,7 +12,6 @@
   <p align="center">
     <a href="https://tarun1790.github.io/my-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
     <a href="mailto:tarun.jampani45@gmail.com"><img src="https://img.shields.io/badge/Email-tarun.jampani45%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/tarun1790"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
@@ -190,7 +189,6 @@ status: Open for collaboration on impactful AI & Software Engineering projects
   <p>
     <a href="https://tarun1790.github.io/my-website/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
     <a href="mailto:tarun.jampani45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/tarun1790"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
   <sub>Tarun Jampani</sub>
