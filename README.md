@@ -35,50 +35,6 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
-### Systems Architecture & Engineering Blueprint
-
-```mermaid
-graph LR
-    subgraph Data_Layer ["Edge Telemetry & Data Layer"]
-        A[IoT Sensors & Streams] --> B[FastAPI Ingestion Engine]
-        B --> C[(Redis Buffer & Caching)]
-    end
-
-    subgraph AI_ML_Engine ["AI & Machine Learning Core"]
-        C --> D[Variational Autoencoder VAE]
-        C --> E[Remaining Useful Life Regression]
-        D --> F[Anomaly Scoring & FFT Analysis]
-    end
-
-    subgraph Agent_Memory ["Vector Retrieval & RAG Hub"]
-        F --> G[Vector Store & TencentDB Memory]
-        G --> H[LLM Multi-Agent Router]
-    end
-
-    subgraph Client_Platform ["Telemetry Dashboard & Web"]
-        H --> I[SSE Token Stream / WebSockets]
-        I --> J[Next.js & React Telemetry UI]
-    end
-
-    classDef blue fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    classDef dark fill:#161b22,stroke:#30363d,stroke-width:1px,color:#e6edf3;
-    class A,B,C,D,E,F,G,H,I,J blue;
-```
-
----
-
-### Core Engineering Benchmarks & System Metrics
-
-| Metric / Dimension | Target / Baseline | Measured Performance | Architecture & Stack |
-| :--- | :---: | :---: | :--- |
-| **Model Inference Latency** | `< 25ms` | **12.4ms** | PyTorch CUDA VAE Tensor Engine |
-| **SSE Token Streaming Throughput** | `> 50 tok/s` | **85.6 tok/s** | FastAPI Async Server-Sent Events |
-| **Telemetry Event Ingestion** | `> 5,000 evt/s` | **12,400 evt/s** | Redis Buffer & Async Event Loop |
-| **Vibration Anomaly ROC-AUC** | `> 98.0%` | **99.42%** | FFT Spectral Analysis + Latent Space |
-| **System Uptime & SLA** | `99.9%` | **99.98%** | Multi-Container Dockerized Cluster |
-
----
-
 ### Featured Repositories & Systems
 
 <table>
@@ -207,14 +163,6 @@ graph LR
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun1790&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8" alt="GitHub Contribution Graph" width="100%" />
 </p>
-
-| Telemetry Dimension | Active Status | Measured Volume / Rate | Target Architecture |
-| :--- | :---: | :---: | :--- |
-| **Total Contributions** | `ACTIVE` | **2,187+ Verified Commits** | Core Engineering Systems |
-| **Current Continuous Streak** | `ACTIVE` | **181 Days Active Sync** | Daily Development Cadence |
-| **Longest Matrix Span** | `ACHIEVED` | **1,617 Commits Matrix** | Full-Year 2025 Architecture |
-| **Daily Commit Velocity** | `STEADY` | **~8.4 Commits / Day** | Continuous Integration CI/CD |
-| **Ecosystem Repositories** | `DEPLOYED` | **16 Active Codebases** | AI / Digital Twins / Web / Tools |
 
 ---
 
