@@ -154,6 +154,16 @@ status: Open for collaboration on impactful AI & Software Engineering projects
 
 ---
 
+### Achievements & GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/tarun1790">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarun1790&theme=flat&no-frame=true&margin-w=12&margin-h=12" alt="Tarun Jampani GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### Activity & Contribution Telemetry
 
 <p align="center">
